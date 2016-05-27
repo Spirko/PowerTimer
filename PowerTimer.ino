@@ -1,3 +1,7 @@
+/* PowerTimer
+ *  
+ */
+
 
 #define PSEUDOGROUND 12
 #define BUTTON1      10
